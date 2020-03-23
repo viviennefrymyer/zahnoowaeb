@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://doaqueaph.productminded.me/sitemap.xml
